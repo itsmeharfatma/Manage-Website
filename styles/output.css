@@ -638,11 +638,6 @@ video {
   padding: 1.5rem;
 }
 
-.px-4 {
-  padding-left: 1rem;
-  padding-right: 1rem;
-}
-
 .px-6 {
   padding-left: 1.5rem;
   padding-right: 1.5rem;
@@ -665,14 +660,14 @@ video {
   font-weight: 700;
 }
 
-.text-darkGrayishBlue {
-  --tw-text-opacity: 1;
-  color: hsl(227 12% 61% / var(--tw-text-opacity));
-}
-
 .text-white {
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
+}
+
+.text-darkGrayishBlue {
+  --tw-text-opacity: 1;
+  color: hsl(227 12% 61% / var(--tw-text-opacity));
 }
 
 .hover\:bg-brightRedLight:hover {
